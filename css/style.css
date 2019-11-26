@@ -1,6 +1,7 @@
 body{
     background-color: aquamarine;
 }
+header{
     display: flex;
     border-bottom: solid white 2px;
 }
